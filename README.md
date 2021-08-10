@@ -2,9 +2,9 @@
  
  <div>
   <a href="https://github.com/rodrigolusa">
-  <img height="225" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=gruvbox"/><br>
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rodrigolusa&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolusa&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="225" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=merko"/><br>
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rodrigolusa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolusa&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
  ##
@@ -13,17 +13,11 @@
  <img align="center" alt="Rodrigo-Cpp" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  <img align="center" alt="Rodrigo-C#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img align="center" alt="Rodrigo-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Rodrigo-HTML5" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Rodrigo-CSS3" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="Rodrigo-Typescript" height="30" width="110" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
  
 <div style="display: inline"><br>
  <img align="center" alt="Rodrigo-SQLServer" height="30" width="120" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  <img align="center" alt="Rodrigo-DotNet" height="30" width="100" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
- <img align="center" alt="Rodrigo-Jupyter" height="30" width="100" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
- <img align="center" alt="Rodrigo-Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img align="center" alt="Rodrigo-Postman" height="30" width="100" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
  <img align="center" alt="Rodrigo-PowerBI" height="30" width="100" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
  <img align="center" alt="Rodrigo-Jira" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>  
