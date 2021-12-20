@@ -1,5 +1,16 @@
 ### Hi, I'm Rodrigo Lusa!
  
+##
+<a href="https://rodrigolusa.github.io" target="_blank">Acesse meu portfólio</a> 
+##
+<div> 
+  <a href="https://www.instagram.com/rodrigorlusa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigolusa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.facebook.com/rodrigo.lusa.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+
  <div>
   <a href="https://github.com/rodrigolusa">
   <img height="225" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=blue-green"/><br>
@@ -25,11 +36,3 @@
  <img align="center" alt="Rodrigo-VSCode" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="Rodrigo-VS" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
  </div>
- 
- ##
- 
-<div> 
-  <a href="https://www.instagram.com/rodrigorlusa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigolusa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.facebook.com/rodrigo.lusa.1/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-</div>
