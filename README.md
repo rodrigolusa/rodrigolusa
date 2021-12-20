@@ -2,35 +2,28 @@
  
  <div>
   <a href="https://github.com/rodrigolusa">
-  <img height="225" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=merko"/><br>
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rodrigolusa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolusa&layout=compact&langs_count=7&theme=merko"/>
+  <img height="225" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=blue-green"/><br>
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=rodrigolusa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolusa&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
  ##
 <div style="display: inline"><br>
- <img align="center" alt="Rodrigo-C" height="30" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img align="center" alt="Rodrigo-Cpp" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img align="center" alt="Rodrigo-C#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- <img align="center" alt="Rodrigo-Python" height="30" width="100" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
- 
-<div style="display: inline"><br>
- <img align="center" alt="Rodrigo-SQLServer" height="30" width="120" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
- <img align="center" alt="Rodrigo-DotNet" height="30" width="100" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
- <img align="center" alt="Rodrigo-PowerBI" height="30" width="100" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
- <img align="center" alt="Rodrigo-Jira" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-</div>  
- 
-<div style="display: inline"><br>
- <img align="center" alt="Rodrigo-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
- <img align="center" alt="Rodrigo-Ubuntu" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
- <img align="center" alt="Rodrigo-kali" height="30" width="100" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
- </div>
- 
- <div style="display: inline"><br>
- <img align="center" alt="Rodrigo-VSCode" height="30" width="130" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img align="center" alt="Rodrigo-VS" height="30" width="120" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+ <img align="center" alt="Rodrigo-C" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+ <img align="center" alt="Rodrigo-Cpp" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+ <img align="center" alt="Rodrigo-C#" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+ <img align="center" alt="Rodrigo-Python" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+
+ <img align="center" alt="Rodrigo-SQLServer" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+ <img align="center" alt="Rodrigo-DotNet" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+ <img align="center" alt="Rodrigo-Jira" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+
+ <img align="center" alt="Rodrigo-Windows" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+ <img align="center" alt="Rodrigo-Ubuntu" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+ <img align="center" alt="Rodrigo-linux" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
+ <img align="center" alt="Rodrigo-VSCode" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="Rodrigo-VS" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
  </div>
  
  ##
