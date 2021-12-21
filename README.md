@@ -10,9 +10,13 @@
 
 <div>
   <a href="https://github.com/rodrigolusa">
-  <img width="300" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=blue-green"/><br>
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=rodrigolusa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/><br>
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolusa&langs_count=7&theme=blue-green"/>
+  <table>
+   <tr>
+     <td><img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=rodrigolusa&theme=blue-green"/><br>
+     <img width="500" src="https://github-readme-stats.vercel.app/api?username=rodrigolusa&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/></td>    
+     <td><img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolusa&langs_count=7&theme=blue-green"/></td>
+   </tr>
+  </table>
 </div>
  
 <div style="display: inline padding: 10px"><br>
