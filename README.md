@@ -20,7 +20,7 @@
 - 🔭 I'm currently working at **Ponfac - Innovation in Image Processing**
 - 🌱 I’m currently learning **Project Management**
 - 💬 Ask me about **C#**
-- 📫 How to reach me: <a href="mailto:rodrigolusa.17@gmail.com">rodrigolusa@outlook.com</a>
+- 📫 How to reach me: <a href="mailto:rodrigolusa.17@gmail.com">rodrigolusa.17@gmail.com</a>
 - ⚡ Fun fact: I :heart: cats.  
 
 
